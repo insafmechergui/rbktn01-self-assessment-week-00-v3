@@ -48,9 +48,13 @@
 //
 // returns ['Beth Jr. Johnson', 'Joshie Wyattson'];
 
-
-
+// if truthTest = true  
+//filter familyTree['firstName'] + " " + familyTree['lastName']  
+//return array.push(familyTree['firstName'] + familyTree['lastName'])
+// filterFamilyMembers 
 var filterFamilyMembers = function (familyTree, truthTest) {
   // All your code in this function body
+
+	
 };
 
